@@ -1,11 +1,3 @@
-[![npm][npm]][npm-url]
-[![deps][deps]][deps-url]
-[![test][test]][test-url]
-[![coverage][cover]][cover-url]
-[![quality][quality]][quality-url]
-[![chat][chat]][chat-url]
-
-
 [![Travis](https://img.shields.io/travis/HapLifeMan/purifycss-extended-webpack/master.svg)]()
 [![Downloads](https://img.shields.io/npm/dt/purifycss-extended-webpack.svg)](https://www.npmjs.com/package/purifycss-extended-webpack)
 [![Realease](https://img.shields.io/npm/v/purifycss-extended-webpack.svg)](https://github.com/HapLifeMan/purifycss-extended-webpack/releases)
