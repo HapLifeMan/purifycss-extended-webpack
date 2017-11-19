@@ -1,5 +1,5 @@
 import fs from 'fs';
-import purify from 'purify-css';
+import purify from 'purifycss-extended';
 import { ConcatSource } from 'webpack-sources';
 import * as parse from './parse';
 import * as search from './search';

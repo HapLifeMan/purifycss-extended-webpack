@@ -1,7 +1,7 @@
 {
-  "name": "purifycss-webpack",
+  "name": "purifycss-extended-webpack",
   "version": "0.7.0",
-  "description": "PurifyCSS for webpack",
+  "description": "PurifyCSS Extended for webpack",
   "main": "./dist",
   "scripts": {
     "build": "rimraf dist && babel src -d dist",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/webpack-contrib/purifycss-webpack.git"
+    "url": "https://github.com/HapLifeMan/purifycss-extended-webpack.git"
   },
   "keywords": [
     "webpack",
@@ -38,14 +38,14 @@
       "node_modules"
     ]
   },
-  "author": "Kenny Tran, Matthew Rourke, Phoebe Li, Kevin \"Ingwie Phoenix\" Ingwersen",
+  "author": "Kenny Tran, Matthew Rourke, Phoebe Li, Kevin \"Ingwie Phoenix\" Ingwersen, Thomas Reichling",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/webpack-contrib/purifycss-webpack/issues"
+    "url": "https://github.com/HapLifeMan/purifycss-extended-webpack/issues"
   },
-  "homepage": "https://github.com/webpack-contrib/purifycss-webpack",
+  "homepage": "https://github.com/HapLifeMan/purifycss-extended-webpack",
   "peerDependencies": {
-    "purify-css": ">= 1.0.0 < 2.0.0"
+    "purifycss-extended": ">= 1.2.7 < 2.0.0"
   },
   "dependencies": {
     "ajv": "^4.11.2",
@@ -67,7 +67,7 @@
     "git-prepush-hook": "^1.0.1",
     "jest": "^18.1.0",
     "npm-watch": "^0.1.8",
-    "purify-css": "^1.2.2",
+    "purifycss-extended": "^1.3.6",
     "rimraf": "^2.6.1"
   },
   "pre-push": [

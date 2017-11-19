@@ -1,4 +1,9 @@
-## purifycss-webpack
+## purifycss-extended-webpack
+
+0.7.1 / 2017-11-19
+==================
+
+  * Created Webpack plugin for PurifyCSS Extended
 
 0.7.0 / 2017-05-16
 ==================
