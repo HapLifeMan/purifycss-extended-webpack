@@ -4,4 +4,4 @@ dist/
 coverage/
 *.log
 .eslintcache
-
+.idea/
